@@ -3,7 +3,7 @@ import random
 import json
 import os
 
-bot = telebot.TeleBot("5950485062:AAHk11VIaP2FRIRJuIFcsaXHWyNrxzI5kuk")
+bot = telebot.TeleBot("...")
 
 reply_keyboard = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True)
 btn1 = telebot.types.KeyboardButton("1️⃣Вгадай число")
