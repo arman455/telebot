@@ -24,7 +24,7 @@ my_col_p = my_db[data["db"]["mongo_col_products"]]
 
 
 oleg_user = my_col_u.find_one({
-    "tg_id":441550313
+    "tg_id":...
 })
 
 oleg_user["basket"].update({
