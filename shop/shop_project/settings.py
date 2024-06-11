@@ -3,7 +3,7 @@ import pymongo
 data = {
 
     "bot" : {
-        "tg_token" : "6232254406:AAGUxtC1rekxDkAZdy3vtv78tHLufIhaTBU",
+        "tg_token" : "...",
         "bot_name" : "Scripy Techno Shop",
         "phone_number" : "+380965913761",
         "email" : "scripytechno@gmail.com",
